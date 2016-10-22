@@ -1,4 +1,4 @@
-% Compute Jacobian of regressor R given g
+% Compute Jacobian of regressor R given g (for a single channel)
 function dRdg1k = compute_dRdg1k(g,k,params)
 
 addpath('../mtimesx_20110223/');
