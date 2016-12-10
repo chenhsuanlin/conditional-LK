@@ -9,7 +9,17 @@ ECCV poster: http://www.eccv2016.org/files/posters/P-4B-22.pdf
 arXiv preprint: https://arxiv.org/pdf/1603.08597v1.pdf
 
 We provide the MATLAB code for planar image alignment experiments.  
-Please cite our paper if you find our code useful for your research!
+If you find our code useful for your research, please cite
+```
+@inproceedings{lin2016conditional,
+  title={The Conditional Lucas \& Kanade Algorithm},
+  author={Lin, Chen-Hsuan and Zhu, Rui and Lucey, Simon},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  pages={793--808},
+  year={2016},
+  organization={Springer International Publishing}
+}
+```
 
 --------------------------------------
 
