@@ -1,12 +1,9 @@
 ## The Conditional Lucas & Kanade Algorithm
-
-This is the code for the paper
-#### The Conditional Lucas & Kanade Algorithm  
 Chen-Hsuan Lin, Rui Zhu, and Simon Lucey  
-European Conference on Computer Vision (ECCV), 2016
+European Conference on Computer Vision (ECCV), 2016  
 
-ECCV poster: http://www.eccv2016.org/files/posters/P-4B-22.pdf  
-arXiv preprint: https://arxiv.org/pdf/1603.08597v1.pdf
+Paper: https://www.andrew.cmu.edu/user/chenhsul/paper/ECCV2016.pdf  
+Poster: https://www.andrew.cmu.edu/user/chenhsul/paper/ECCV2016poster.pdf
 
 We provide the MATLAB code for planar image alignment experiments.  
 If you find our code useful for your research, please cite
