@@ -2,8 +2,9 @@
 Chen-Hsuan Lin, Rui Zhu, and Simon Lucey  
 European Conference on Computer Vision (ECCV), 2016  
 
-Paper: https://www.andrew.cmu.edu/user/chenhsul/paper/ECCV2016.pdf  
-Poster: https://www.andrew.cmu.edu/user/chenhsul/paper/ECCV2016poster.pdf
+Website: https://chenhsuanlin.bitbucket.io/conditional-LK
+Paper: https://chenhsuanlin.bitbucket.io/conditional-LK/paper.pdf  
+Poster: https://chenhsuanlin.bitbucket.io/conditional-LK/poster.pdf
 
 We provide the MATLAB code for planar image alignment experiments.  
 If you find our code useful for your research, please cite
