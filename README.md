@@ -1,5 +1,7 @@
 ## The Conditional Lucas & Kanade Algorithm
-Chen-Hsuan Lin, Rui Zhu, and Simon Lucey  
+[Chen-Hsuan Lin](https://chenhsuanlin.bitbucket.io/),
+[Rui Zhu](https://jerrypiglet.github.io/),
+and [Simon Lucey](http://www.simonlucey.com/)  
 European Conference on Computer Vision (ECCV), 2016  
 
 Website: https://chenhsuanlin.bitbucket.io/conditional-LK  
@@ -22,7 +24,7 @@ If you find our code useful for your research, please cite
 --------------------------------------
 
 ### Prerequisites  
-You would need to first compile *MTIMESX* (https://www.mathworks.com/matlabcentral/fileexchange/25977-mtimesx-fast-matrix-multiply-with-multi-dimensional-support). This is required for fast computation for optimizing Conditional LK. Please follow the instructions in the MATLAB File Exchange to compile this library.
+You would need to first compile [MTIMESX](https://www.mathworks.com/matlabcentral/fileexchange/25977-mtimesx-fast-matrix-multiply-with-multi-dimensional-support). This is required for fast computation for optimizing Conditional LK. Please follow the instructions in the MATLAB File Exchange to compile this library.
 
 ### Running the code  
 
@@ -37,13 +39,13 @@ The nonlinear optimization methods we provide include:
 * Vanilla gradient descent
 * Limited-memory BFGS (LBFGS)  
 
-**(new)** We have additionaly included support using the *minFunc* library (https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html) if you wish to use LBFGS for optimization (nice if you have limited RAM). Other optimization methods in *minFunc* are also compatible.  
+**(new)** We have additionaly included support using the [minFunc](https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html) library if you wish to use LBFGS for optimization (nice if you have limited RAM). Other optimization methods in *minFunc* are also compatible.  
 We did not use *minFunc* for our experiments, but if you wish to use it, please place the `minFunc_2012` directory in the repository root and follow the instructions to compile.
 
-We also provide a script `visualizeGradients.m` to help visualize the learned gradients. You would need `imdisp` (https://www.mathworks.com/matlabcentral/fileexchange/22387-imdisp) to run this script.
+We also provide a script `visualizeGradients.m` to help visualize the learned gradients. You would need [imdisp](https://www.mathworks.com/matlabcentral/fileexchange/22387-imdisp) to run this script.
 
 --------------------------------------
 
-Please contact me (chenhsul@andrew.cmu.edu) if you have any questions!
+Please contact me (chlin@cmu.edu) if you have any questions!
 
 
