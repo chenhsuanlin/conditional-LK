@@ -4,7 +4,7 @@
 and [Simon Lucey](http://www.simonlucey.com/)  
 European Conference on Computer Vision (ECCV), 2016  
 
-Website: https://chenhsuanlin.bitbucket.io/conditional-LK  
+Project page: https://chenhsuanlin.bitbucket.io/conditional-LK  
 Paper: https://chenhsuanlin.bitbucket.io/conditional-LK/paper.pdf  
 Poster: https://chenhsuanlin.bitbucket.io/conditional-LK/poster.pdf
 
