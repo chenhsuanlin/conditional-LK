@@ -9,17 +9,6 @@ Paper: https://chenhsuanlin.bitbucket.io/conditional-LK/paper.pdf
 Poster: https://chenhsuanlin.bitbucket.io/conditional-LK/poster.pdf
 
 We provide the MATLAB code for planar image alignment experiments.  
-If you find our code useful for your research, please cite
-```
-@inproceedings{lin2016conditional,
-  title={The Conditional Lucas \& Kanade Algorithm},
-  author={Lin, Chen-Hsuan and Zhu, Rui and Lucey, Simon},
-  booktitle={European Conference on Computer Vision (ECCV)},
-  pages={793--808},
-  year={2016},
-  organization={Springer International Publishing}
-}
-```
 
 --------------------------------------
 
@@ -46,6 +35,17 @@ We also provide a script `visualizeGradients.m` to help visualize the learned gr
 
 --------------------------------------
 
+If you find our code useful for your research, please cite
+```
+@inproceedings{lin2016conditional,
+  title={The Conditional Lucas \& Kanade Algorithm},
+  author={Lin, Chen-Hsuan and Zhu, Rui and Lucey, Simon},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  pages={793--808},
+  year={2016},
+  organization={Springer International Publishing}
+}
+```
 Please contact me (chlin@cmu.edu) if you have any questions!
 
 
